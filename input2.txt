@@ -1,0 +1,26 @@
+22
+
+fA 3 eb ed ee
+eb 1 fH
+fC 3 eb ed eg
+ed 1 fF
+ee 1 fC
+fF 3 eb ee eg
+eg 1 fA
+fH 3 ed ee eg
+
+ex 2 fA fF'
+fX 2 ex ew
+ey 2 fX fH'
+ez 1 fC
+fZ 2 ez ex
+ew 2 fZ fA'
+
+fA' 3 eb' ed' ee'
+eb' 1 fH'
+fC' 3 eb' ed' eg'
+ed' 1 fF'
+ee' 1 fC'
+fF' 3 eb' ee' eg'
+eg' 1 fA'
+fH' 3 ed' ee' eg'

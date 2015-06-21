@@ -1,0 +1,9 @@
+8
+fA 4 ea eb ec ed
+ea 1 fB
+fB 1 eb
+eb 1 fC
+fC 1 ec
+ec 1 fD
+fD 1 ed
+ed 1 fA
