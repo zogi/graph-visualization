@@ -1,7 +1,7 @@
 Graph visualization demo
 ========================
 
-#Overview
+##Overview
 
 This demo detects cycles in a graph and removes nodes until it becomes a DAG.
 The process is visualized in 3D using [force-based graph visualization](
@@ -20,12 +20,12 @@ a viable running order of given the remaining processes.
 The demo is written in C++ using OpenGL and GLUT (I know, see the disclaimer).
 Only fixed-function pipeline features are used.
 
-#Screenshot
+##Screenshot
 
 ![Screenshot of the graph visualization demo](
 http://zogi.github.io/images/screenshot_graph.png)
 
-#Usage
+##Usage
 
 `graph [input_file]`
 
@@ -43,15 +43,15 @@ process nodes, other identifiers define resource nodes.
 The identifiers following `K` on a single line has to be different from the type
 of `id`.
 
-##Example input:
+###Example input:
 
-4
-eE 1 fA
-fA 1 eF
-eF 1 fB
-fB 1 eE
+    4
+    eE 1 fA
+    fA 1 eF
+    eF 1 fB
+    fB 1 eE
 
-#DISCLAIMER
+##DISCLAIMER
 I've originally written this in 2008 for a university course assignment.
 This repository contains deprecated techologies and sophomore-level code
 quality that some viewers may find disturbing.
