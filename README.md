@@ -54,14 +54,14 @@ The types of the identifiers following `K` have to be different from the type of
 
 ##Note to Windows users
 
-Windows binaries of the freeglut library can be downloaded from [here](
+Windows binaries of the freeglut library can be downloaded [here](
 http://www.transmissionzero.co.uk/software/freeglut-devel/).
 
 The cmake directory contains a FindGLUT.cmake file which (hopefully) will
 find glut if the `GLUT_ROOT_PATH` environment variable is set correctly.
 
 For those who don't want to compile the code, a 64 bit Windows binary of this
-demo can be downloaded from [here](http://zogi.github.io/downloads/graph.zip).
+demo can be downloaded [here](http://zogi.github.io/downloads/graph.zip).
 
 ##DISCLAIMER
 I've originally written this in 2008 for a university course assignment.
